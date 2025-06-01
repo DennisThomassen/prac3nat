@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prac3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "prac3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
